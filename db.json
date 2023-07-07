@@ -1,5 +1,5 @@
 {
-  "careers": {
+  "careers": [
     {
       "id": 1,
       "title": "Supritendent Pharmacist",
@@ -42,5 +42,5 @@
       "salary": 200,
       "location": "Kano, Nigeria"
     }
-}
+  ]
 }
